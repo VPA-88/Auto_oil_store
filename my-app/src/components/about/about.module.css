@@ -1,0 +1,27 @@
+
+.text_banner_1 {
+    display: grid;
+    font-size: 120%;
+    font-weight: bold;
+    color: rgb(9, 68, 9);
+    text-align: center;
+
+}
+.text_banner_2{
+    font-size: 15px;
+    font-weight: bold;
+    color: green;
+   padding: auto;
+   margin:0px 10px 0px 10px;
+    text-align: center;
+    border:1px solid rgb(9, 68, 9);
+}
+
+.text_banner_2 p{
+    text-align: center;
+}
+.text_ection{
+ 
+    margin: 0 auto;
+}
+

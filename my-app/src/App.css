@@ -1,0 +1,11 @@
+body{
+    background-image: url("/public/img/bg.jpg");
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+}
+.app{
+    background-color: rgb(234, 236, 238);
+    margin: 5% 15% 10% 15% ; 
+      
+}
